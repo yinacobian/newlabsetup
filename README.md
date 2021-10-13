@@ -21,3 +21,4 @@ https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_1
 
 change U -> T in SILVA databases: 
 
+sed '/^[^>]/s/U/T/g' SILVA_138.1_LSURef_NR99_tax_silva.fasta > SILVA_138.1_LSURef_NR99_tax_silva-DNA.fasta
