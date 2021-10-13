@@ -16,6 +16,7 @@ SILVA:
 https://www.arb-silva.de/no_cache/download/archive/release_138.1/Exports/
 
 https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_SSURef_NR99_tax_silva.fasta.gz
+
 https://www.arb-silva.de/fileadmin/silva_databases/release_138.1/Exports/SILVA_138.1_LSURef_NR99_tax_silva.fasta.gz
 
 change U -> T in SILVA databases: 
